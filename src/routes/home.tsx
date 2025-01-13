@@ -5,8 +5,8 @@ export default function HomePage() {
   return (
     <Layout>
       <Hero
-        title="Landing Page ....."
-        content=" Building go to destination for personalised gifts"
+        title="Landing Page"
+        content=" Building go to destination for personalised gifts. Coming Soon......"
         illustration={<HeroIllustration />}
       />
     </Layout>
